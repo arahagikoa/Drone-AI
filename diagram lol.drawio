@@ -1,0 +1,170 @@
+<mxfile host="Electron" modified="2024-03-08T00:02:52.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Z7M8rrfoVluLvvDmm-tW" version="23.1.5" type="device">
+  <diagram name="Strona-1" id="N5hG7qie3mQJUUUhyr7m">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CPSEARs8zgRcDfSxptTr-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="150" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-6">
+          <mxGeometry width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-5" value="Komunikacja z dronem&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-6">
+          <mxGeometry x="10" y="10" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-11" target="CPSEARs8zgRcDfSxptTr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-11" value="komunikacja przez sygnały radiowe" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-5" target="CPSEARs8zgRcDfSxptTr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-13" target="CPSEARs8zgRcDfSxptTr-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-13" value="Pilot / joystick&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-32" value="GPS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="767" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-17" target="CPSEARs8zgRcDfSxptTr-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="690" as="sourcePoint" />
+            <mxPoint x="530" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-28" target="CPSEARs8zgRcDfSxptTr-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="690" as="sourcePoint" />
+            <mxPoint x="620" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.558;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-30" target="CPSEARs8zgRcDfSxptTr-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="690" as="sourcePoint" />
+            <mxPoint x="700" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-32" target="CPSEARs8zgRcDfSxptTr-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="690" as="sourcePoint" />
+            <mxPoint x="870" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-39" value="Odpowiednia reakcja drona" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="549.9966666666667" y="137" width="929.3333333333334" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-4" value="położenie drona&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="650.0033333333333" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-2" value="Wykrywanie obiektów z obrazu kamery drona" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry y="10" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-3" value="Czujniki badające otoczenie (warunki pogodowe)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="345.33333333333337" width="155.4" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-4" target="CPSEARs8zgRcDfSxptTr-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="333" />
+              <mxPoint x="730" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-2" target="CPSEARs8zgRcDfSxptTr-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-97.99999999999994" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="102.66666666666674" y="100" as="sourcePoint" />
+            <mxPoint x="200.66666666666663" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="102.66666666666674" y="195" />
+              <mxPoint x="200.66666666666663" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-17" value="Oszacowanie odległości do przeszkody" style="whiteSpace=wrap;html=1;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="18.666666666666742" y="490" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-15" target="CPSEARs8zgRcDfSxptTr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-19" value="CV do zidentyfikowania obiektów/przeszkód z obrazu kamery&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="102.67" y="290" width="167.33" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-19" target="CPSEARs8zgRcDfSxptTr-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84" y="390" as="sourcePoint" />
+            <mxPoint x="130.66666666666663" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-23" value="Wiatr&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="280.0000000000001" y="185" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-3" target="CPSEARs8zgRcDfSxptTr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-3" target="CPSEARs8zgRcDfSxptTr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-26" value="deszcz/burza/grad" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="470.0033333333334" y="185" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-3" target="CPSEARs8zgRcDfSxptTr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-28" value="czujnik wiatru&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="280.0033333333334" y="523" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-23" target="CPSEARs8zgRcDfSxptTr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-30" value="dane z map pogodowych" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="470.0066666666668" y="523" width="112" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CPSEARs8zgRcDfSxptTr-44" source="CPSEARs8zgRcDfSxptTr-26" target="CPSEARs8zgRcDfSxptTr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-15" value="LIDAR i fotogeometria&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-44">
+          <mxGeometry x="-100" y="290" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-45" target="CPSEARs8zgRcDfSxptTr-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-45" value="AI do analizy danych&lt;div&gt;z sygnałów&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-46" value="WIFI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-46" target="CPSEARs8zgRcDfSxptTr-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1000" as="sourcePoint" />
+            <mxPoint x="460" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CPSEARs8zgRcDfSxptTr-49" target="CPSEARs8zgRcDfSxptTr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-49" value="ruch operatora" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1220" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

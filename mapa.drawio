@@ -1,0 +1,43 @@
+<mxfile host="Electron" modified="2024-03-08T00:02:56.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="xEyMCdf4LzvOZqyS6FFT" version="23.1.5" type="device">
+  <diagram name="Strona-1" id="tYnvnxyxtObfktqJwsHC">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gh7_q-cfoUuPuVClXpGG-1" target="gh7_q-cfoUuPuVClXpGG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-1" value="&lt;h1&gt;A&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-3" value="&lt;h1&gt;B&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="340" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gh7_q-cfoUuPuVClXpGG-6" target="gh7_q-cfoUuPuVClXpGG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gh7_q-cfoUuPuVClXpGG-6" target="gh7_q-cfoUuPuVClXpGG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-6" value="Zczytać niedozwolone miejsca" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gh7_q-cfoUuPuVClXpGG-13" target="gh7_q-cfoUuPuVClXpGG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gh7_q-cfoUuPuVClXpGG-13" target="gh7_q-cfoUuPuVClXpGG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-13" value="Wyznaczyć optymalną trasę" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-16" value="Posesje, obiekty państwowe, obszary burzy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gh7_q-cfoUuPuVClXpGG-20" value="Rzeźba terenu" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

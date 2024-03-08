@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2024-03-07T20:32:17.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="9MG7NkRkozgZ0XIOgXdY" version="23.1.5" type="device">
+  <diagram name="Strona-1" id="N5hG7qie3mQJUUUhyr7m">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CPSEARs8zgRcDfSxptTr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="170" width="166.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="170" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="170" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-6">
+          <mxGeometry width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-5" value="Komunikacja z dronem&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CPSEARs8zgRcDfSxptTr-6">
+          <mxGeometry x="10" y="10" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-7" value="Wykrywanie obiektów z obrazu kamery drona" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-8" value="Czujniki badające otoczenie" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CPSEARs8zgRcDfSxptTr-9" value="położenie drona&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
