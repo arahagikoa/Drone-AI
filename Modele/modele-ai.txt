@@ -1,0 +1,7 @@
+Image classification/human-detection:
+-google/vit-base-patch16-224-in21k · Hugging Face
+- https://huggingface.co/DunnBC22/vit-base-patch16-224-in21k_Human_Activity_Recognition
+Face recognition:
+- https://github.com/serengil/deepface
+- https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/
+- facebook/dino-vits8 · Hugging Face
