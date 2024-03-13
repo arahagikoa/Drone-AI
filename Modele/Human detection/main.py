@@ -4,17 +4,15 @@ import requests
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
+import os
 
 
+image_path1 = r"D:\Pobrane Opera GX\"
+image_path2 = r"D:\Pobrane Opera GX\"
 
-
-# First image
-url1 = 'http://images.cocodataset.org/val2017/000000039769.jpg'
-image1 = Image.open(requests.get(url1, stream=True).raw)
-
-# Second image
-url2 = 'http://images.cocodataset.org/val2017/000000039769.jpg'
-image2 = Image.open(requests.get(url2, stream=True).raw)
+# Wczytaj obrazy z dysku
+image1 = Image.open(image_path1)
+image2 = Image.open(image_path2)
 
 processor = ViTImageProcessor.from_pretrained('google/vit-base-patch16-224-in21k')
 model = ViTModel.from_pretrained('google/vit-base-patch16-224-in21k')
